@@ -20,8 +20,8 @@ un proyecto/comunidad.
 |---|---|
 |Fernandez Lopez Belen Crissel|Ing.  Ambiental|
 |Gamonal Castro Piero Alexander|Ing. Informática|
-|Garcia Vinces Brisette Charlotte|Ing.Informática|
-|Flores Risco Jefferson Daniel|Ing.|
+|Garcia Vinces Brisette Charlotte|Ing. Informática|
+|Flores Risco Jefferson Daniel|Ing. Industrial|
 
 
 3. Fotografía del equipo
