@@ -24,3 +24,7 @@ un proyecto/comunidad.
 |Flores Risco Jefferson Daniel|Ing.|
 
 
+3. Fotografía del equipo
+
+
+<img width="635" height="476" alt="image" src="https://github.com/user-attachments/assets/c1028682-987d-4c80-a125-087e65c065a3" />
